@@ -18,5 +18,16 @@
     <ClCompile Include="mainFile.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="printText.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="macro.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
